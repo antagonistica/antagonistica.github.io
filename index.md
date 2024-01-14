@@ -1,4 +1,4 @@
-Welcome to my blog where I write about *FOSS* software and what you can do with it!
+Welcome to my blog where I write about *FOSS* (free and open-source software) and what you can do with it!
 My plan is to write down what I learned while I tried to achieve some goal myself.
 While this may help me to organize and remember things it may also be helpful for other people.
 Hopefully also for you!
