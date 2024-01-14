@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Welcome to my blog where I write about FOSS software and what you can do with it!
+My plan is to write down what I learned while I tried to achieve some goal myself.
+While this may help me to organize and remember things it may also be helpful for other people.
+Hopefully also for you!
+I plan to mainly write down information that would've helped me myself.
+In this way I hope to give something back to the amazing FOSS community.
